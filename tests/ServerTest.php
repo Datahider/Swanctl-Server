@@ -15,7 +15,7 @@ use PHPUnit\Framework\TestCase;
  */
 class ServerTest extends TestCase {
     
-    public function testCanGetSecrets() {
+    public function testCanUpdateSecrets() {
         $model = \losthost\swanctlModel\Model::getModel();
         $model->connect(DB_HOST, DB_USER, DB_PASS, DB_NAME, DB_PREFIX);
         
