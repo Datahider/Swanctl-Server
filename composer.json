@@ -1,6 +1,6 @@
 {
     "name": "losthost/swanctl-server",
-    "description": "Description of project Swanctl-Server.",
+    "description": "A view of swanctlModel on a vpn-server created with https://github.com/jawj/IKEv2-setup#vpn-server",
     "minimum-stability": "dev",
     "authors": [
         {
